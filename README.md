@@ -3,6 +3,8 @@
 
 My practical code to train work with goose cli migration tool and integrations with Go project code.
 
+Migrations are embedded in go project and could be managed with goose library.
+
 # Technological Stack
 
 - Built in Go version 1.20
